@@ -1,0 +1,10 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/pfm/pfm",
+    "pages/yno/yno",
+    "pages/charts/charts"
+  ],
+  "sitemapLocation": "sitemap.json"
+ 
+}
